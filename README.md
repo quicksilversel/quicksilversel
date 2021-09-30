@@ -18,7 +18,9 @@ I'm Sueun, but I usually go by Zoe.
 <img alt="swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
+<img alt="scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
 <img alt="mySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
