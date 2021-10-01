@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Sueun, but I usually go by Zoe.
+I'm Sueun, but most people call me Zoe.
 
 📚 I’m currently a senior at KAIST, majoring in CS, in South Korea.
 
 🌱 Check out some of my works at [my portfolio website](https://quicksilversel.github.io/)!
+
+⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.py`, `.psd`
 
 🎨 My profile icon was made by my lovely friend Marina (ig @rina_chan_)
 
