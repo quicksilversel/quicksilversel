@@ -2,7 +2,7 @@
 
 I'm Sueun, but most people call me Zoe.
 
-📚 I’m currently a senior at KAIST, majoring in CS, in South Korea. I will be graduating in August 2022.
+📚 I’m currently majoring in CS at college, and I will be graduating in August 2022.
 
 🌱 Check out some of my works at [my portfolio website](https://quicksilversel.github.io/)!
 
