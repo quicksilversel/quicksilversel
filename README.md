@@ -6,7 +6,7 @@ I'm Sueun, but most people call me Zoe.
 
 🌱 Check out some of my works at [my portfolio website](https://quicksilversel.github.io/)!
 
-⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.py`, `.psd`
+⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.py`
 
 🎨 My profile icon was made by my lovely friend Marina (ig @rina_chan_)
 
