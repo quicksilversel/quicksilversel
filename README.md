@@ -8,7 +8,7 @@ I'm Sueun, but most people call me Zoe.
 
 ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.py`
 
-🎨 My profile icon was made by my lovely friend Marina (ig @rina_chan_)
+🎨 My profile icon was made by [my lovely friend](https://instagram.com/rina__chan_).
 
 ### languages and tools 
 <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
