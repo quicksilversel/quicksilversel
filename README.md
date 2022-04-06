@@ -1,10 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Sueun, but most people call me Zoe.
+I'm Sueun, but my friends call me Zoe.
 
-📚 I’m currently majoring in CS at KAIST, and I will be graduating in August 2022.
+📚 I’m an undergraduate student of computer science in KAIST.
 
-🌱 Check out some of my works at [my portfolio website](https://quicksilversel.github.io/)!
+🌱 I will be working as a front end engineer starting April 2023 in Japan 🇯🇵
 
 ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.py`
 
