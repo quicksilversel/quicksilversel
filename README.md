@@ -2,9 +2,9 @@
 
 I'm Sueun, but my friends call me Zoe.
 
-📚 I’m an undergraduate student in computer science in KAIST.
+🌱 Soon-to-be front end engineer from 2023 in Japan 🇯🇵
 
-🌱 I will be working as a front end engineer starting April 2023 in Japan 🇯🇵
+📚 Undergraduate student in computer science in KAIST.
 
 🎨 My profile icon was made by [my very talented friend](https://instagram.com/rina__chan_)!
 
