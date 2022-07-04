@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sueun, but my friends call me Zoe.
+I'm Sueun, but my friends also call me Zoe.
 
 🌱 Soon-to-be front end engineer from 2023 in Japan 🇯🇵
 
