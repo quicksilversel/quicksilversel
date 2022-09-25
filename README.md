@@ -4,8 +4,6 @@ I'm Sueun, but my friends also call me Zoe.
 
 🌱 Soon-to-be front end engineer from 2023 in Japan 🇯🇵
 
-📚 Undergraduate student in computer science at KAIST.
-
 🎨 My profile icon was made by [my very talented friend](https://instagram.com/rina__chan_)!
 
 ### languages and tools 
