@@ -4,7 +4,7 @@ I'm Sueun, but my friends also call me Zoe.
 
 👩🏻‍💻 Front end engineer in Japan 🇯🇵
 
-🎓 CS Major at KAIST
+🎓 Bachelor of Computer Science at KAIST
 
 🎨 My profile icon was made by [my very talented friend](https://instagram.com/rina__chan_)!
 
@@ -15,4 +15,3 @@ I'm Sueun, but my friends also call me Zoe.
 <img alt="vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
