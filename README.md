@@ -1,7 +1,14 @@
 # Hi, I'm Zoe 👋
 
-I’m fluent in both **Frontend** and **Site Reliability Engineering (SRE)**.  
-I love bridging the gap between application development and infrastructure — from React components to Kubernetes clusters.
+I'm a Site Reliability Engineer with a frontend background, passionate about building systems that are not only reliable but also thoughtfully designed. I love bridging the gap between infrastructure and user experience.
+
+By day, I focus on cloud architecture (AWS, Kubernetes, Terraform), observability (Datadog, Splunk), and automation — making sure platforms scale smoothly and stay resilient. By night, I’m a frontend developer at heart, building with React and Next.js for personal projects like my blog.
+
+I enjoy designing infrastructures that scale, debugging tricky production issues, and just as much, crafting clean interfaces and delightful user experiences. For me, SRE and frontend aren’t separate worlds — they complement each other, and I’m most excited about opportunities where I can do both.
+
+Outside of work, you’ll often find me experimenting with new tech, writing about SRE practices, or designing my blog’s branding — always chasing that sweet spot between creativity and efficiency.
+
+I’m always open to new opportunities and collaborations where infrastructure meets user experience. Whether you have a question, a project idea, or just want to say hi, feel free to reach out!
 
 ---
 
