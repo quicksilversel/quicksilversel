@@ -24,9 +24,9 @@ I love projects where reliability meets user experience — always chasing the b
 
 | Years           | Role / Education                                      |
 |-----------------|-------------------------------------------------------|
-| 2018 – 2022     | **BSc. Computer Science**, KAIST                      |
-| 2023/4 – 2025/4   | **Frontend Engineer**, ZOZO Inc                            |
 | 2025/4 – Now    | **Site Reliability Engineer (SRE)**, ZOZO Inc               |
+| 2023/4 – 2025/4   | **Frontend Engineer**, ZOZO Inc                            |
+| 2018 – 2022     | **BSc. Computer Science**, KAIST                      |
 
 ---
 
