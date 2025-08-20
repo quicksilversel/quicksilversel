@@ -10,6 +10,16 @@ I love projects where reliability meets user experience — always chasing the b
 
 ---
 
+## 🌐 Where to find me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sueun-lee)
+- ✍️ [Medium](https://medium.com/@quicksilversel) 
+- ✍️ [Zenn](https://zenn.dev/quicksilversel) 
+- ✍️ [Qiita](https://qiita.com/quicksilversel)
+- 🧙 [Codepen](https://codepen.io/quicksilversel)
+
+---
+
 ## 📜 Experience
 
 | Years           | Role / Education                                      |
@@ -56,7 +66,3 @@ I love projects where reliability meets user experience — always chasing the b
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quicksilversel&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
-📌 *Always exploring new tools and stacks — because learning never stops.*
