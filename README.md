@@ -13,6 +13,7 @@ I love projects where reliability meets user experience — always chasing the b
 ## 🌐 Where to find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sueun-lee)
+- 💼 [YouTrust](https://youtrust.jp/users/sueunlee)
 - ✍️ [Medium](https://medium.com/@quicksilversel) 
 - ✍️ [Zenn](https://zenn.dev/quicksilversel) 
 - ✍️ [Qiita](https://qiita.com/quicksilversel)
