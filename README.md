@@ -1,12 +1,11 @@
 # Hi, I'm Zoe 👋
 
-I'm a Site Reliability Engineer with a frontend background, passionate about building systems that are not only reliable but also thoughtfully designed. I love bridging the gap between infrastructure and user experience.
+I'm a Frontend Engineer with SRE experience, passionate about building products that are both reliable and thoughtfully designed.
 
-I work with AWS, Kubernetes, Terraform, Datadog, and Splunk to design reliable, scalable systems.
+On the frontend, I work with React / Next.js to create clean, efficient user experiences (like my [blog](https://zoelog.vercel.app/) ✍️).
+From my SRE background, I bring hands-on knowledge with AWS, Kubernetes, Terraform, Datadog, and Splunk — always thinking about scalability, observability, and performance.
 
-Outside of SRE, I enjoy creating with React/Next.js (like my blog), blending infrastructure with thoughtful design.
-
-I love projects where reliability meets user experience — always chasing the balance between creativity and efficiency.
+I love projects where reliability meets user experience — chasing the sweet spot between creativity and efficiency.
 
 ---
 
@@ -25,8 +24,7 @@ I love projects where reliability meets user experience — always chasing the b
 
 | Years           | Role / Education                                      |
 |-----------------|-------------------------------------------------------|
-| 2025/4 – Now    | **Site Reliability Engineer (SRE)**, ZOZO Inc               |
-| 2023/4 – 2025/4   | **Frontend Engineer**, ZOZO Inc                            |
+| 2023/4 – Now | **Frontend Engineer / SRE**, ZOZO Inc    |
 | 2018 – 2022     | **BSc. Computer Science**, KAIST                      |
 
 ---
