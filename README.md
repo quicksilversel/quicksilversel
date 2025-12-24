@@ -29,27 +29,17 @@ Check out my [blog](https://zoelog.vercel.app/) where I document what I'm learni
 
 ## 🛠 My Favorite Tools
 
-### 💻 Frontend & Backend
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css&logoColor=white">
+### 💻 Frontend
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white">
+
+### ⚙️ Backend
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 
 ### ☁️ Cloud & Infrastructure
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
-<img alt="Istio" src="https://img.shields.io/badge/Istio-466BB0.svg?logo=istio&logoColor=white">
-<img alt="Flux" src="https://img.shields.io/badge/Flux-4B5563.svg?logo=flux&logoColor=white">
-<img alt="Flagger" src="https://img.shields.io/badge/Flagger-0096FF.svg?logo=flagger&logoColor=white">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"> <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white"> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white">
 
-### 📊 Monitoring & Logging
-<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white"> <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000.svg?logo=splunk&logoColor=white">
-
-### 🗄️ Databases & Caching
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+### 📊 Observability & Data
+<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
 
 ---
 
