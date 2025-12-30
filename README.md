@@ -40,8 +40,3 @@ Check out my [blog](https://zoelog.vercel.app/) where I document what I'm learni
 
 ### 📊 Observability & Data
 <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
-
----
-
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quicksilversel&layout=compact&theme=tokyonight&hide_border=true)
