@@ -1,0 +1,25 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Mondays at 00:00 UTC
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull the latest posts into README.md
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://zoelog.vercel.app/rss.xml'
+          max_post_count: 5
+          commit_message: 'chore: update latest blog posts'
+          # Without this the action pushes a dummy commit on every run,
+          # even when the feed has not changed.
+          enable_keepalive: 'false'

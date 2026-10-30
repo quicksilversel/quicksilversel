@@ -1,42 +1,38 @@
 # Hi, I'm Zoe 👋
-I'm a Frontend Engineer with SRE experience who loves building **internal tools and platforms** that make teams more productive.
 
-I thrive in fast-paced environments where I can work across the full stack — from React/Next.js frontends to Node.js backends, with a strong foundation in infrastructure (AWS, Kubernetes, Terraform). My SRE background means I naturally think about reliability, observability, and scalability while building.
+I'm Sueun, but everyone calls me Zoe. Born in Korea, raised in the States, now building things in Japan.
 
-I'm happiest when creating tools that directly solve real problems for developers and teams, moving quickly from idea to production.
+Frontend and SRE, now in developer tooling. I work on the tools and workflows other engineers build with, which puts most of my days somewhere between a React component and a CI pipeline. The SRE years stuck: I think about reliability and observability while building, not after.
 
-Check out my [blog](https://zoelog.vercel.app/) where I document what I'm learning ✍️
+I love a good writing collaboration, especially the kind where I put a tool through a real project and write up honestly how it went.
 
----
-
-## 🌐 Where to find me
-- 💼 [LinkedIn](https://www.linkedin.com/in/sueun-lee)
-- 💼 [YouTrust](https://youtrust.jp/users/sueunlee)
-- ✍️ [Medium](https://medium.com/@quicksilversel) 
-- ✍️ [Zenn](https://zenn.dev/quicksilversel) 
-- ✍️ [Qiita](https://qiita.com/quicksilversel)
-- 🧙 [Codepen](https://codepen.io/quicksilversel)
+**Working with** TypeScript · React · Next.js · Python · Node.js · GCP · AWS · Kubernetes · Terraform · GitHub Actions
 
 ---
 
-## 📜 Experience
-| Years           | Role / Education                                      |
-|-----------------|-------------------------------------------------------|
-| 2023/4 – Now | **Frontend Engineer / SRE**, ZOZO Inc    |
-| 2018 – 2022     | **BSc. Computer Science**, KAIST                      |
+## Experience
+| Years | Role / Education |
+|---|---|
+| 2023/4 – Now | **Frontend, SRE and Developer Productivity**, ZOZO Inc |
+| 2018 – 2022 | **BSc. Computer Science**, KAIST |
 
 ---
 
-## 🛠 My Favorite Tools
+## Recent posts
+<!-- BLOG-POST-LIST:START -->
+- [Upgrading to Next.js 16 with Turbopack: Three Upstream Bugs I Hit (and Filed)](https://zoelog.vercel.app/articles/fullstack/upgrading-to-nextjs-16-turbopack-bugs)
+- [Automating Full-Page Screenshots with Playwright in CI](https://zoelog.vercel.app/articles/infrastructure/automating-landing-page-captures-with-playwright)
+- [Turning Ended Landing Pages into Data to Stop Build Times from Piling Up](https://zoelog.vercel.app/articles/frontend/turning-ended-landing-pages-into-data)
+- [Calendar Invites from a Bot, Without Domain-Wide Delegation](https://zoelog.vercel.app/articles/projects/slack-workflow-automations/calendar-invites-without-domain-wide-delegation)
+- [[CI/CD] Cutting CI From 20 to 6 Minutes by Pulling Lint and Type Checks Out of next build](https://zoelog.vercel.app/articles/infrastructure/nextjs-ci-release-pipeline-speedup)
+<!-- BLOG-POST-LIST:END -->
 
-### 💻 Frontend
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white">
+More at [zoelog.vercel.app](https://zoelog.vercel.app/)
 
-### ⚙️ Backend
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+---
 
-### ☁️ Cloud & Infrastructure
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"> <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=googlecloud&logoColor=white"> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white">
+## Where to find me
 
-### 📊 Observability & Data
-<img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+[LinkedIn](https://www.linkedin.com/in/sueun-lee) · [YouTrust](https://youtrust.jp/users/sueunlee) · [Zenn](https://zenn.dev/quicksilversel) · [Qiita](https://qiita.com/quicksilversel) · [Medium](https://medium.com/@quicksilversel) · [CodePen](https://codepen.io/quicksilversel)
+
+My email is on [my about page](https://zoelog.vercel.app/about) if you'd rather write.
