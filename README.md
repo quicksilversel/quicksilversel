@@ -20,11 +20,11 @@ I love a good writing collaboration, especially the kind where I put a tool thro
 
 ## Recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Upgrading to Next.js 16 with Turbopack: Three Upstream Bugs I Hit (and Filed)](https://zoelog.vercel.app/articles/fullstack/upgrading-to-nextjs-16-turbopack-bugs)
+- [Moving an IP Allowlist to Cloud Armor: When the Deferred Upgrade Comes Due](https://zoelog.vercel.app/articles/projects/creative-workflow-tool/moving-the-ip-allowlist-to-cloud-armor)
+- [Upgrading to Next.js 16 with Turbopack: Three Upstream Bugs I Hit &lpar;and Filed&rpar;](https://zoelog.vercel.app/articles/fullstack/upgrading-to-nextjs-16-turbopack-bugs)
 - [Automating Full-Page Screenshots with Playwright in CI](https://zoelog.vercel.app/articles/infrastructure/automating-landing-page-captures-with-playwright)
 - [Turning Ended Landing Pages into Data to Stop Build Times from Piling Up](https://zoelog.vercel.app/articles/frontend/turning-ended-landing-pages-into-data)
 - [Calendar Invites from a Bot, Without Domain-Wide Delegation](https://zoelog.vercel.app/articles/projects/slack-workflow-automations/calendar-invites-without-domain-wide-delegation)
-- [[CI/CD] Cutting CI From 20 to 6 Minutes by Pulling Lint and Type Checks Out of next build](https://zoelog.vercel.app/articles/infrastructure/nextjs-ci-release-pipeline-speedup)
 <!-- BLOG-POST-LIST:END -->
 
 More at [zoelog.vercel.app](https://zoelog.vercel.app/)
